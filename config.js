@@ -46,9 +46,9 @@ window.WISH_CONFIG = {
     }
 ],
   photos: [
-    { src: 'p1.jpeg', caption: 'I. A moment worth keeping', alt: 'Our first favourite photograph' },
+    { src: 'p1.jpeg', caption: 'I. A moment I will forever come back to', alt: 'Our first favourite photograph' },
     { src: 'p2.jpeg', caption: 'II. A little piece of us', alt: 'Our second favourite photograph' },
-    { src: 'p3.jpeg', caption: 'III. My favourite kind of forever', alt: 'Our third favourite photograph' }
+    { src: 'p3.jpeg', caption: 'III. My princess', alt: 'Our third favourite photograph' }
   ],
   video: 'v1.mp4'
 };

@@ -46,9 +46,9 @@ window.WISH_CONFIG = {
     }
 ],
   photos: [
-    { src: 'assets/photo-1.jpg', caption: 'I. A moment worth keeping', alt: 'Our first favourite photograph' },
-    { src: 'assets/photo-2.jpg', caption: 'II. A little piece of us', alt: 'Our second favourite photograph' },
-    { src: 'assets/photo-3.jpg', caption: 'III. My favourite kind of forever', alt: 'Our third favourite photograph' }
+    { src: 'p1.jpeg', caption: 'I. A moment worth keeping', alt: 'Our first favourite photograph' },
+    { src: 'p2.jpeg', caption: 'II. A little piece of us', alt: 'Our second favourite photograph' },
+    { src: 'p3.jpeg', caption: 'III. My favourite kind of forever', alt: 'Our third favourite photograph' }
   ],
-  video: 'assets/our-video.mp4'
+  video: 'v1.mp4'
 };

@@ -1,7 +1,7 @@
 // Personalise this file. Keep quotation marks around text and commas between entries.
 window.WISH_CONFIG = {
   birthday: '2026-10-16T00:00:00+05:30',
-  message: 'I love you sweet heart. You are going to win every goal you have dream of, and I am so much looking forward to you absolutely crushing it this year. I am proud of you Divya, you are 21 and awesome my love',
+  message: 'Happy 21 Sweet Heart. I love you sweet heart. You are going to win every goal you have dream of, and I am so much looking forward to you absolutely crushing it this year. I am proud of you Divya, you are 21 and awesome my love. No matter how hard life comes towards you, You are my one true princess, u will make it, ALive and the Best.',
   // These are editable love notes, not claims about specific shared memories.
   stars: [
     {
